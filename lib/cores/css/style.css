@@ -1,5 +1,5 @@
 body {
-    background: #eeeeee;
+    background: var(--bs-light);
 }
 #main {
     margin-left: auto;
@@ -33,7 +33,6 @@ body {
     position: fixed;
 }
 .sticky-toolbar {
-    width: 46px;
     position: fixed;
     top: 30%;
     right: 0;
