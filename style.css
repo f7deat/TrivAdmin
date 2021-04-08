@@ -5,9 +5,6 @@ body {
     margin-left: auto;
     padding: 1rem;
 }
-#sidebarMenu {
-    transition: width 1s;
-}
 [data-toggle="collapse"] .fa:before {   
     content: "\f139";
   }
